@@ -1,0 +1,24 @@
+.dropdown {
+    position: relative;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.toggle {
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 91%;
+    padding: 20px;
+    text-align: center;
+    background-color: blueviolet;
+    color: aliceblue;
+
+}
